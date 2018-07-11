@@ -16,12 +16,6 @@ length_week_12 = len(train_time_week_12)
 length_weekend_7 = len(train_time_weekend_7)
 length_week_11 = len(train_time_week_11)
 length_weekend_11 = len(train_time_weekend_11)
-#os.system("python time.py>time.txt")
-#with open('time.txt', 'r') as myfile:
-#    time = myfile.read()
-#hour = time[11:13]
-#minute = time[14:16]
-#day = time[0:3]
 
 while True:
     brk = 0
@@ -141,7 +135,7 @@ while True:
                                 print (train_time_week_7[i])
                                 t_time = str(train_time_week_7[i])
                                 os.system('echo "' + t_time + '" | festival --tts')
-####################################3
+
             elif message ==(' music\n'):#music
                 print('what kinds of music do you want?')
                 os.system('echo "' + 'okay what kinds of music?' + '" | festival --tts')
@@ -170,15 +164,7 @@ while True:
                 print("wait please")
                 os.system('echo "' + 'wait \n please' + '" | festival --tts')
                 os.system('python3 MENU.py')
-                #url = "http://www.inu.ac.kr/com/cop/mainWork/foodList2.do?siteId=inu&id=inu_050110030000"
-                #res = requests.get(url)
-                #html = res.text
-                #soup = BeautifulSoup(html, "lxml")
-                #s = soup.find("div", attrs = {"class":"sickdangmenu"})
-                #for corner in s.find_all("dl"):
-                #    print (corner.dd.text[6:])
-                #    os.system('espeak -v ko -ven+f3 -k5 -s150 "' + corner.dd.text[6:] + '"')
-                #os.system('echo "' + '8minutes later' + '" | festival --tts')
+  
             elif message ==(' start\n'):
                 os.system('echo "' + 'okay   record  start!!' + '" | festival --tts')
                 os.system('arecord -D hw:1,0 -f S16_LE --duration=20 -r 44100 record.wav')
