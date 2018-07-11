@@ -4,5 +4,7 @@
 
 스탠드 사진추가
 
-Used Device
+1. Used Device
+
+라즈베리파이, 카메라 모듈, 아두이노, 2x16Lcd, NEO pixel LED 3개, 가변저항, 잭 스피커 
 
