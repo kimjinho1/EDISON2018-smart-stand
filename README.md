@@ -29,8 +29,8 @@
 
 얼굴인식(OpenCV)
 
-![default](https://user-images.githubusercontent.com/29765855/42582356-d7fc7d20-8569-11e8-9505-c2eef227c19e.jpg)
-![default](https://user-images.githubusercontent.com/29765855/42582375-e3b73092-8569-11e8-91cf-e528b6ca8cbf.jpg)
+![20180712_002901](https://user-images.githubusercontent.com/29765855/42582655-b231be1a-856a-11e8-9ad1-deaa5100a9b7.jpg)
+
 ![opencv](https://user-images.githubusercontent.com/29765855/42582391-ec0349b6-8569-11e8-8fe0-163004abd48d.jpg)
 
 
