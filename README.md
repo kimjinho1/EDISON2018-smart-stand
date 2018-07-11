@@ -17,7 +17,16 @@
 ![default](https://user-images.githubusercontent.com/29765855/42580646-f94b15ee-8565-11e8-8f29-9ff2d4fde2b1.jpg)
 ![default](https://user-images.githubusercontent.com/29765855/42580658-fecdd006-8565-11e8-91eb-3e0e8bc1b647.jpg)
 
-2. 기능 설명
+2. 사용 기술
 
-1) STT, TTS 
+음성인식 --> STT(Speech to text, Google API key사용) 
+
+음성출력 --> TTS(Text to speech, Festival 과 espeak 사용)용
+
+크롤링(무수히 많은 컴퓨터에 분산 저장되어 있는 문서를 수집하여 검색 대상의 색인으로 포함시키는 기술)
+
+파싱(beautifulSoup4 사용)
+
+얼굴인식(OpenCV 사용)
+
 
