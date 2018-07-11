@@ -6,7 +6,7 @@
 
 스탠드 사진추가
 
-1. Used Device
+1. 사용한 장비
 
 라즈베리파이, 아두이노, 카메라 모듈, 2x16Lcd, NEO pixel LED 3개, 가변저항, 마이크, 잭 스피커 
 
@@ -16,4 +16,8 @@
 ![default](https://user-images.githubusercontent.com/29765855/42580631-f13a2ade-8565-11e8-9296-d97f184e5b77.jpg)
 ![default](https://user-images.githubusercontent.com/29765855/42580646-f94b15ee-8565-11e8-8f29-9ff2d4fde2b1.jpg)
 ![default](https://user-images.githubusercontent.com/29765855/42580658-fecdd006-8565-11e8-91eb-3e0e8bc1b647.jpg)
+
+2. 기능 설명
+
+1) STT, TTS 
 
