@@ -1,12 +1,12 @@
-팀명: 동서가구
+__팀명: 동서가구
 
-조원: 이장희, 김진호, 이규승
+__조원: 이장희, 김진호, 이규승
 
-주제: 홈 IOT 기반으로 삶의 편리를 높여주는 스마트 스탠드
+__주제: 홈 IOT 기반으로 삶의 편리를 높여주는 스마트 스탠드
 
 스탠드 사진추가
 
-1. 사용한 장비
+__1. 사용한 장비__
 
 라즈베리파이, 아두이노, 카메라 모듈, 2x16Lcd, NEO pixel LED 3개, 가변저항, 마이크, 잭 스피커 
 
@@ -17,7 +17,7 @@
 ![default](https://user-images.githubusercontent.com/29765855/42580646-f94b15ee-8565-11e8-8f29-9ff2d4fde2b1.jpg)
 ![default](https://user-images.githubusercontent.com/29765855/42580658-fecdd006-8565-11e8-91eb-3e0e8bc1b647.jpg)
 
-2. 사용 기술
+__2. 사용 기술__
 
 음성인식 --> STT(Speech to text, Google API key 사용) 
 
