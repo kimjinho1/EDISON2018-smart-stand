@@ -4,6 +4,10 @@ __조원: 이장희, 김진호, 이규승__
 
 __주제: 홈 IOT 기반으로 삶의 편리를 높여주는 스마트 스탠드__
 
+시연 영상 
+
+https://youtu.be/mzgp0LI1t6c
+
 완성! 작품 사진
 
 https://user-images.githubusercontent.com/29765855/42629844-489a7b2c-85c4-11e8-9b35-1c25c4eb5296.jpg)
