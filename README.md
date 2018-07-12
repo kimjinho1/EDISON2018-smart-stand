@@ -6,7 +6,11 @@ __주제: 홈 IOT 기반으로 삶의 편리를 높여주는 스마트 스탠드
 
 완성
 
-)https://user-images.githubusercontent.com/29765855/42629844-489a7b2c-85c4-11e8-9b35-1c25c4eb5296.jpg)
+https://user-images.githubusercontent.com/29765855/42629844-489a7b2c-85c4-11e8-9b35-1c25c4eb5296.jpg)
+
+https://user-images.githubusercontent.com/29765855/42629875-63e94458-85c4-11e8-8416-a9753bbe4480.jpg)
+
+https://user-images.githubusercontent.com/29765855/42629890-758b607e-85c4-11e8-8710-e5428f44824f.jpg)
 
 내부
 
